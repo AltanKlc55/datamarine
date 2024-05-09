@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "datamarine",
+    "name": "Data Marine",
     "slug": "datamarine",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -16,7 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.aklc.datamarine"
+      "bundleIdentifier": "com.datamarine.datamarine"
     },
     "android": {
       "adaptiveIcon": {
